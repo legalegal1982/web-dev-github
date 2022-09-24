@@ -1,0 +1,7 @@
+Just some text to dive deeper here.
+
+Some more text!
+
+git credential reject => ENTER
+host=github.com => ENTER
+protocol=https => ENTER
